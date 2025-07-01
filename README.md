@@ -153,3 +153,10 @@
 ![](https://github.com/rugewit/mai-diploma/blob/main/3.png)
 
 ![](https://github.com/rugewit/mai-diploma/blob/main/4.png)
+
+SHAP анализ
+
+![](https://github.com/rugewit/mai-diploma/blob/main/5.png)
+
+![](https://github.com/rugewit/mai-diploma/blob/main/6.png)
+
